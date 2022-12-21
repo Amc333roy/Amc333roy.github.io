@@ -1,18 +1,18 @@
 # Site settings
-title: Aaron Cook
+title: Aaron Christian
 description: 'Deep Learning Professional'
-url: 'https://Aaronbcook.github.io'
+url: 'https://AaronbChristian.github.io'
 baseurl: ''
 google_analytics: 'UA-83225772-1'
-disqus_shortname: 'Aaronbcook-github-io'
+disqus_shortname: 'AaronbChristian-github-io'
 
 author:
-  name: 'Aaron Cook'
-  email: Aaron.cook@gmail.com
-  twitter_username: Aaron_b_cook
-  facebook_username: Aaron.cook
-  github_username:  Aaronbcook
-  linkedin_username:  Aaron-cook-a6127753
+  name: 'Aaron Christian'
+  email: Aaron.Christian@gmail.com
+  twitter_username: Aaron_b_Christian
+  facebook_username: Aaron.Christian
+  github_username:  AaronbChristian
+  linkedin_username:  Aaron-Christian-a6127753
 
 defaults:
   -
