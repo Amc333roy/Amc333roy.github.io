@@ -1,18 +1,18 @@
 # Site settings
-title: Alexis Cook
+title: Aaron Cook
 description: 'Deep Learning Professional'
-url: 'https://alexisbcook.github.io'
+url: 'https://Aaronbcook.github.io'
 baseurl: ''
 google_analytics: 'UA-83225772-1'
-disqus_shortname: 'alexisbcook-github-io'
+disqus_shortname: 'Aaronbcook-github-io'
 
 author:
-  name: 'Alexis Cook'
-  email: alexis.cook@gmail.com
-  twitter_username: alexis_b_cook
-  facebook_username: alexis.cook
-  github_username:  alexisbcook
-  linkedin_username:  alexis-cook-a6127753
+  name: 'Aaron Cook'
+  email: Aaron.cook@gmail.com
+  twitter_username: Aaron_b_cook
+  facebook_username: Aaron.cook
+  github_username:  Aaronbcook
+  linkedin_username:  Aaron-cook-a6127753
 
 defaults:
   -
